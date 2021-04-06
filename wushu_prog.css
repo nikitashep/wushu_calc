@@ -4,7 +4,7 @@ body{
 table{
 	width: 150px;
 	height: 100px;
-    margin: 200px 550px;
+    /*margin: 200px 550px;*/
     border-color:black;
     border-radius: 3px;
 }

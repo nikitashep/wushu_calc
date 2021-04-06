@@ -1,0 +1,16 @@
+body{
+	background: linear-gradient(125deg ,#FFFAFA,red);
+}
+table{
+	width: 150px;
+	height: 100px;
+    /*margin: 200px 550px;*/
+    border-color:black;
+    border-radius: 3px;
+}
+button{
+	width: 100px;
+	height: 100px;
+	background-color:#FFFAFA;
+    font-size: 25px;
+}
